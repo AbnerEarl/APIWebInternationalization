@@ -1,0 +1,7 @@
+spring:
+  # 国际化
+  messages:
+  # 国际化资源路径
+    basename: static/lang/messages #相对路径 开头不要添加斜杠
+    encoding: UTF-8
+
